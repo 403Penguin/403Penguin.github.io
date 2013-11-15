@@ -17,7 +17,7 @@ nav{
     background:#474747 url(../img/lightgraybg.png);
     float:left;
     text-align:center;
-    min-width:350px;
+
 }
 #logo{
     
@@ -67,7 +67,6 @@ ul{
     width:100%;
     position:relative;
     top:75%;
-    min-width:75%;
 }
 #icons li{
     display:inline;
