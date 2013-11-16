@@ -2,4 +2,4 @@ auto: true
 server: true
 markdown: rdiscount
 safe: true
-url: http://403penguin.github.io/
+baseurl: http://403penguin.github.io/
