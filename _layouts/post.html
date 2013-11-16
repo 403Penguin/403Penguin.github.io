@@ -1,9 +1,10 @@
----
-layout: default
+--- 
+layout: default 
 title: {{post.title}}
 ---
-
-<h1>{{ post.title }}</h1>
-
-{{ content }}
-
+<div class="post">
+    <h1>{{ post.title }}</h1>
+    <div id="postbody">
+        {{ content }}
+    </div>
+</div>
