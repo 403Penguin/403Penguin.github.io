@@ -1,0 +1,42 @@
+
+#content {
+    position:relative;
+    width:66%;
+    height:100%;
+    list-style:none;
+    padding:2%;
+    overflow:auto;
+    float:right;
+}
+#posts{
+    margin-top:0;
+    width:88%;
+    padding:1%;
+    display:block;
+    position:relative;
+    height:100%;
+    margin-left:10%;
+}
+#posts a{
+    color:#464646;
+}
+#posts h3{
+    font:180% Tahoma, Helvetica, Arial, Sans-Serif;
+    margin-top:4%;
+}
+#posts h4{
+    margin-top:2%;
+     font:1em Tahoma, Helvetica, Arial, Sans-Serif;
+}
+#posts p{
+    margin-top:2%;
+     font:1em Tahoma, Helvetica, Arial, Sans-Serif;
+}
+
+#line{
+    height:2;
+    background:#505050;
+    width:50%;
+    align-content:center;
+    border-bottom:1px solid #313030;
+}
