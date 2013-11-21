@@ -5,9 +5,16 @@
 nav,#content{
     display:block;
 }
+#main{
+    z-index:1;
+}
 #page{
     width:100%;
     position:relative;
+    z-index:1;
+}
+body{
+    z-index:0;
 }
 nav{
     position:fixed;
@@ -78,8 +85,30 @@ ul{
     height:100%;
     padding:2%;
     position:relative;
+    z-index:1;
 }
 #content{
    font:2em Tahoma, Helvetica, Arial, Sans-Serif;
    
+}
+footer{
+    height:400px;
+    background:#4b4b4b;
+    font-size:12px;
+    position:relative;
+    z-index:-2;
+    clear:both;
+}
+#fcontainer{
+    width:100%;
+    position:fixed;
+    bottom:0;
+    padding-bottom: 60px;
+    z-index:-1;
+    margin-left:
+}
+footer p{
+     font:4em Tahoma, Helvetica, Arial, Sans-Serif;
+    margin-left:50%;
+    z-index:-1;
 }
