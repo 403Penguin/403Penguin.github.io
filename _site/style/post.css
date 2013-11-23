@@ -33,10 +33,16 @@
      font:1em Tahoma, Helvetica, Arial, Sans-Serif;
 }
 
-#line{
-    height:2;
-    background:#505050;
-    width:50%;
-    align-content:center;
-    border-bottom:1px solid #313030;
+.post{
+    position:relative;
+    left:30%;
+    padding:2%;
+    height:auto;
+    font:1.2em Tahoma, Helvetica, Arial, Sans-Serif;
+    width:62%;
+    height:auto;
+    overflow:none;
+}
+#comments{
+    margin-top:5%;
 }
