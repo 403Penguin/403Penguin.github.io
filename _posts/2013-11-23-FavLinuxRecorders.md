@@ -15,21 +15,19 @@ friends a cool screenshot. Since most of the well known softwares for capturing 
 are on Windows, people look for screen recorders and find that they need to use the terminal to capture
 their screen. Here is my list of my 3 screen recorders that I use.
 
-##1 Kazam
+##1. Kazam
 
 Kazam is the best screen recorder I have found so far. It is simple and gets the job done. The quality of the 
 video is fantastic(HD) and it rarely affects my computer speed. This is easily a must have for any linux computer.
-```bash
-Install it on Ubuntu 13.04
-Add repository
-sudo add-apt-repository ppa:kazam-team/stable-series
 
-Update
-sudo apt-get update
+{% gist 7622801 %}
 
-Install
-sudo apt-get install kazam
-```
-##2 Cheesy
+##2. GTK UV Video Viewer
+What is this? Its a software that gets  feed from your webcam. Allowing you to record you face while gaming it up.
+Install here  for ubuntu: [Camera](apt:guvcview)
 
-##3 Shutter
+
+##3. Shutter
+Finally the best software for screenshots on Ubuntu. Many ways to export and simple gui makes a great piece of software.
+
+Install here from software center: [Shutter](apt://shutter)
