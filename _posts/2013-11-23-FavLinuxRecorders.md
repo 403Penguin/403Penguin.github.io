@@ -2,7 +2,7 @@
 title: My Top 3 Linux Screenrecorders
 catagory: Software
 layout: post
-excerpt: 
+excerpt: Linux screen recording software? IT EXISTS?!
 comments: true
 ---
 
