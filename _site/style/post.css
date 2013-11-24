@@ -22,16 +22,16 @@
     color:#717171;
 }
 #posts h3{
-    font:2em Tahoma, Helvetica, Arial, Sans-Serif;
+    font:1.2em Tahoma, Helvetica, Arial, Sans-Serif;
     margin-top:4%;
 }
 #posts h4{
     margin-top:2%;
-     font:1em Tahoma, Helvetica, Arial, Sans-Serif;
+     font:.8em Tahoma, Helvetica, Arial, Sans-Serif;
 }
 #posts p{
     margin-top:2%;
-     font:.7em Tahoma, Helvetica, Arial, Sans-Serif;
+     font:.6em Tahoma, Helvetica, Arial, Sans-Serif;
 }
 
 .post{
@@ -49,7 +49,6 @@
 }
 
 hr {
-
   background: #ddd;
   clear: both;
   float: none;
