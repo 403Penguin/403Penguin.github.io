@@ -3,4 +3,3 @@ server: true
 markdown: rdiscount
 safe: true
 baseurl: "http://403penguin.github.io/"
-markdown: redcarpetpygments
