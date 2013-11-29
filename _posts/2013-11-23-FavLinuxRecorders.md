@@ -1,12 +1,13 @@
 ---
-title: My Top 3 Linux Screenrecorders
+title: Best Screen Recorders for Linux
 catagory: Software
 layout: post
 excerpt: Linux screen recording software? IT EXISTS?!
 comments: true
+tags: 
 ---
 
-#My Favorite Screen Recorders
+#Best Screen Recorders on Linux
 
 If you are on linux like me, good screen recorders are hard to find and get working.
 
