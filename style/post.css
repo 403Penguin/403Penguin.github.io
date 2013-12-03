@@ -34,7 +34,7 @@
      font:.6em Tahoma, Helvetica, Arial, Sans-Serif;
 }
 
-.post{
+.post pre{
     position:relative;
     left:30%;
     padding:2%;
@@ -43,6 +43,7 @@
     width:62%;
     height:auto;
     overflow:none;
+    display:block
 }
 #comments{
     margin-top:5%;
