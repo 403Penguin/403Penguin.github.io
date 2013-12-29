@@ -43,6 +43,7 @@ header nav li a {
 }
 header nav li a: hover {
     color: #646464;
+    text-shadow:1px 0px #797979
 }
 .banner {
     overflow: hidden;

@@ -15,12 +15,12 @@ function startSlider() {
             sliderNext = 1;
             sliderInt = 1;
         }
-        $("#banner > img").fadeOut(300);
-        $("#banner > img#" + sliderNext).fadeIn(300);
+        $("#banner > img").fadeOut(500);
+        $("#banner > img#" + sliderNext).fadeIn(500);
 
         sliderInt = sliderNext;
         sliderNext = sliderNext + 1;
-    }, 3000);
+    }, 6000);
 }
 
 function prev() {
@@ -44,8 +44,8 @@ function showSlide(id) {
     } else if (id < 1) {
         id = count;
     }
-    $("#banner > img").fadeOut(300);
-    $("#banner > img#" + id).fadeIn(300);
+    $("#banner > img").fadeOut(500);
+    $("#banner > img#" + id).fadeIn(500);
 
     sliderInt = id;
     sliderNext = id + 1;
