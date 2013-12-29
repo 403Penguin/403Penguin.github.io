@@ -1,0 +1,16 @@
+---
+layout: default
+title: Recent Posts
+---
+<div id="content">
+    <div id="posts">
+    {% for post in site.posts %}
+
+    <h3><a href="{{ post.url}}">{{ post.title }}</a></h3>
+    <h4>{{ post.date | date: "%B %e, %Y" }}</h4>
+    <p>{{post.excerpt}}</p>
+    <h4><a href="{{ post.url}}">Read More</h4>
+    <hr>
+    {% endfor %}
+    </div>
+</div>
