@@ -49,15 +49,15 @@ header nav li a: hover {
     position: relative;
     margin: auto;
     clear: both;
-    height: auto;
-    width: 404px;
-    height: 500px;
+    width: 60%;;
+    height: 70%;
+    align-items:center;
 }
 .banner > img {
-    width: 100%;
-    width: 100%;
-    float: left;
+    width:;
     display: none;
+    margin:auto;
+    position:relative;
 }
 #buttons{
     position:relative;
